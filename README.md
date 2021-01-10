@@ -1,6 +1,6 @@
 # ui-widget-example
 
-This is a project to understand how to creata basic form using different widgets like buttons, text view, edit text, spinner(dropdown), radio buttons, chek boxes.
+This project is about the different widgets provided by android. Android has a lot a widgets but in this we will discuss about most commonly used widgets like EditText, TextView, Button, CheckBox, Radio Button, Spinner (Dropdown Menu)
 
 ## Libraries Used
 - [Data Binding](https://developer.android.com/topic/libraries/data-binding) - Bind UI components in your layouts to data sources.
